@@ -12,4 +12,4 @@ Des temps spécifiques sont dédiés à l’accueil du public :
 -  Les ateliers d’échanges de pratique, que vous pouvez retrouver sur l’agenda (lien à venir).
 -  Les événements trimestriels, à retrouver également sur l’agenda.
 
-...
+<!-- on essaie de coller une partie du contenu de view-source:https://www.usinevivante.org/infos-pratiques/ ? -->
