@@ -4,6 +4,7 @@
 
 # Quelques liens utiles
 
-- https://jekyllrb.com/docs/
-- CSS : https://developer.mozilla.org/fr/docs/Web/CSS/Reference
-- HTML : https://developer.mozilla.org/fr/docs/Web/HTML/Element
+- Assemblage avec Jekyll : https://jekyllrb.com/docs/
+- Syntaxe Markdown (`.md`) : https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples
+- Présentation avec CSS : https://developer.mozilla.org/fr/docs/Web/CSS/Reference
+- Structure avec HTML : https://developer.mozilla.org/fr/docs/Web/HTML/Element
