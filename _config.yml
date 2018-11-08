@@ -1,2 +1,5 @@
 theme: minima
 title: L'Usine Vivante
+
+collections:
+  - agenda
