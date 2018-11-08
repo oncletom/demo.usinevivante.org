@@ -7,4 +7,7 @@ title: Accueil
 
 # Liste des événements à venir
 
+<!-- on fait une liste des 2 derniers événements ? -->
+
 → Voir tous les événements
+<!-- on fait un lien vers la page agenda ? -->
