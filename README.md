@@ -2,6 +2,8 @@
 
 Ça ressemblerait à quoi un site web collaboratif pour l'Usine Vivante de Crest ?
 
+👁‍🗨 prévisualiser le contenu sur https://oncletom.github.io/demo.usinevivante.org/
+
 # Quelques liens utiles
 
 - Assemblage avec Jekyll : https://jekyllrb.com/docs/
