@@ -1,5 +1,5 @@
 ---
-rubrique: psychopedagogue 
+title: psychopedagogue 
 sous-rubrique: definition 
 ---
 
